@@ -1,1 +1,2 @@
 Intro.md
+Equations.md
