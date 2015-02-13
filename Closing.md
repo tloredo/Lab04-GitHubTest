@@ -1,0 +1,1 @@
+And here is a closing block, added to see the GitHub connection in action.
